@@ -1,2 +1,2 @@
 # 271401-AI
-A* path planning
+A* path planning + DETOUR
