@@ -1,0 +1,24 @@
+[0.372s] Invoking command in '/home/pondza/271401-AI/astar_ws/build/turtlebot_bug': PYTHONPATH=/home/pondza/271401-AI/astar_ws/build/turtlebot_bug/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pondza/271401-AI/astar_ws/install/turtlebot_bug/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pondza/271401-AI/astar_ws/build/turtlebot_bug/build --no-deps symlink_data
+[0.533s] running develop
+[0.624s] running egg_info
+[0.624s] creating astar_planner.egg-info
+[0.625s] writing astar_planner.egg-info/PKG-INFO
+[0.625s] writing dependency_links to astar_planner.egg-info/dependency_links.txt
+[0.625s] writing entry points to astar_planner.egg-info/entry_points.txt
+[0.625s] writing requirements to astar_planner.egg-info/requires.txt
+[0.625s] writing top-level names to astar_planner.egg-info/top_level.txt
+[0.625s] writing manifest file 'astar_planner.egg-info/SOURCES.txt'
+[0.626s] reading manifest file 'astar_planner.egg-info/SOURCES.txt'
+[0.626s] writing manifest file 'astar_planner.egg-info/SOURCES.txt'
+[0.627s] running build_ext
+[0.627s] Creating /home/pondza/271401-AI/astar_ws/install/turtlebot_bug/lib/python3.10/site-packages/astar-planner.egg-link (link to .)
+[0.628s] Installing a_star_planner script to /home/pondza/271401-AI/astar_ws/install/turtlebot_bug/lib/astar_planner
+[0.628s] 
+[0.628s] Installed /home/pondza/271401-AI/astar_ws/build/turtlebot_bug
+[0.628s] running symlink_data
+[0.628s] error: can't copy '/home/pondza/271401-AI/astar_ws/build/turtlebot_bug/launch/a_star_nav.launch.py': doesn't exist or not a regular file
+[0.628s] symbolically linking /home/pondza/271401-AI/astar_ws/build/turtlebot_bug/resource/astar_planner -> /home/pondza/271401-AI/astar_ws/install/turtlebot_bug/share/ament_index/resource_index/packages
+[0.628s] creating /home/pondza/271401-AI/astar_ws/install/turtlebot_bug/share/astar_planner
+[0.628s] symbolically linking /home/pondza/271401-AI/astar_ws/build/turtlebot_bug/package.xml -> /home/pondza/271401-AI/astar_ws/install/turtlebot_bug/share/astar_planner
+[0.628s] creating /home/pondza/271401-AI/astar_ws/install/turtlebot_bug/share/astar_planner/launch
+[0.642s] Invoked command in '/home/pondza/271401-AI/astar_ws/build/turtlebot_bug' returned '1': PYTHONPATH=/home/pondza/271401-AI/astar_ws/build/turtlebot_bug/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pondza/271401-AI/astar_ws/install/turtlebot_bug/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pondza/271401-AI/astar_ws/build/turtlebot_bug/build --no-deps symlink_data

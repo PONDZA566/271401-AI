@@ -1,0 +1,18 @@
+[0.366s] Invoking command in '/home/pondza/271401-AI/astar_ws/build/turtlebot_bug': PYTHONPATH=/home/pondza/271401-AI/astar_ws/build/turtlebot_bug/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pondza/271401-AI/astar_ws/install/turtlebot_bug/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pondza/271401-AI/astar_ws/build/turtlebot_bug/build --no-deps symlink_data
+[0.517s] running develop
+[0.613s] running egg_info
+[0.613s] writing astar_planner.egg-info/PKG-INFO
+[0.613s] writing dependency_links to astar_planner.egg-info/dependency_links.txt
+[0.613s] writing entry points to astar_planner.egg-info/entry_points.txt
+[0.613s] writing requirements to astar_planner.egg-info/requires.txt
+[0.613s] writing top-level names to astar_planner.egg-info/top_level.txt
+[0.614s] reading manifest file 'astar_planner.egg-info/SOURCES.txt'
+[0.615s] writing manifest file 'astar_planner.egg-info/SOURCES.txt'
+[0.616s] running build_ext
+[0.616s] Creating /home/pondza/271401-AI/astar_ws/install/turtlebot_bug/lib/python3.10/site-packages/astar-planner.egg-link (link to .)
+[0.616s] Installing a_star_planner script to /home/pondza/271401-AI/astar_ws/install/turtlebot_bug/lib/astar_planner
+[0.616s] 
+[0.616s] Installed /home/pondza/271401-AI/astar_ws/build/turtlebot_bug
+[0.616s] running symlink_data
+[0.617s] error: can't copy '/home/pondza/271401-AI/astar_ws/build/turtlebot_bug/launch/a_star_nav.launch.py': doesn't exist or not a regular file
+[0.631s] Invoked command in '/home/pondza/271401-AI/astar_ws/build/turtlebot_bug' returned '1': PYTHONPATH=/home/pondza/271401-AI/astar_ws/build/turtlebot_bug/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pondza/271401-AI/astar_ws/install/turtlebot_bug/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pondza/271401-AI/astar_ws/build/turtlebot_bug/build --no-deps symlink_data
